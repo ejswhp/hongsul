@@ -8,6 +8,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>글 상세보기</title>
 안녕하십시오~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+술홍익은 헤비스모커입니다.
 </head>
 <body>
 <%
